@@ -1,0 +1,12 @@
+{
+  "firstName": "${FirstName}",
+  "lastName": "${LastName}",
+  "relationID": 2,
+  "age": 147,
+  "ageId": "12",
+  "monthId": 3,
+  "GenderId": 2,
+  "stateId": 19,
+  "patientInfoId": "${patientInfoID}",
+  "relationName": "Daughter"
+}

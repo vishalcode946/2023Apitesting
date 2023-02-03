@@ -1,0 +1,16 @@
+{
+  "firstName": "${FirstName}",
+  "lastName": "${LastName}",
+  "age": 17,
+  "ageId": 1,
+  "monthId": 5,
+  "genderID": 1,
+  "guardian_Title": "Father",
+  "guardian_Name": "${guardian_Name}",
+  "addressLine1": "sdf",
+  "districtId": 904,
+  "cityId": 999933,
+  "stateId": 19,
+  "regionType": "Urban",
+  "patientStateId": 19
+}

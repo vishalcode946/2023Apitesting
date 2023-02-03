@@ -1,0 +1,30 @@
+{
+  "lstConsultationMedicineModel": [],
+  "lstConsultationDiagnosisModel": [
+    {
+      "name": null,
+      "code": null
+    }
+  ],
+  "consultationModel": {
+    "isWronglySent": false,
+    "isInadequate": false,
+    "isCovid": false,
+    "additionalMedicine": "",
+    "additionalDiagnosis": "",
+    "advice": "sdf",
+    "isPatientPresent":false,
+    "consultationId": "${consultationId}",
+    "patientInfoId": ${patientInfoID},
+    "requestFrom": ${CHOID},   //doctor
+    "requestTo": ${doctorid},   //CHO
+    "statusId": 3
+  },
+  "ConsultationMessageModel": {
+    "Message": "sdf",
+    "provisionalDiagnosis": null,
+    "consultationMessageId": 0,
+    "consultationId": "${consultationId}",
+    "requestTo": ${CHOID}
+  }
+}

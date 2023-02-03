@@ -1,0 +1,6 @@
+{
+  "consultationId": ${consultationId},
+  "sendTo": ${doctorid},
+  "statusId": 4,
+  "sendBy": ${CHOID}
+}

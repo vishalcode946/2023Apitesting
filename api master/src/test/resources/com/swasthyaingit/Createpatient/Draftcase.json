@@ -1,0 +1,43 @@
+{
+  "consultationModel": {
+    "patientInfoId": ${patientInfoID},
+    "isDiabetic": false,
+    "isSmoker": false,
+    "isHypertension": false,
+    "isAlcoholic": false,
+    "gerneralExamination": "",
+    "additionalProblem": "",
+    "additionalAllergy": "",
+    "queryDesc": "sdfsdf",
+    "AdditionalMedicine": "",
+    "CRNumber": "",
+    "PatientAddress": "sdf Bishnupur M Bishnupur HD WEST BENGAL",
+    "PatientDOB": "2022-08-25T00:00:00",
+    "PhysicalExamination": "",
+    "StateId": "19",
+    "consultationId": 0,
+    "patientName": "${firstname} ${lastname}",
+    "dob": "2022-08-25T00:00:00",
+    "gender": "Male",
+    "genderId": 1,
+    "mobileNumber": "",
+    "systemicExamination": ""
+  },
+  "lstConsultationAllergyModel": [],
+  "lstConsultationImagesModel": [],
+  "lstConsultationMedicineModel": [],
+  "lstConsultationMessageModel": [],
+  "lstConsultationProblemsModel": [],
+  "lstConsultationTestResultsModel": [],
+  "patientConsultationModel": {
+    "CRNumber": "",
+    "PatientAddress": "sdf Bishnupur M Bishnupur HD WEST BENGAL",
+    "PatientDOB": "2022-08-25T00:00:00",
+    "PatientFirstName": "${firstname}",
+    "PatientGenderId": 1,
+    "PatientLastName": "${lastname}",
+    "PatientMobile": "",
+    "StateId": "19",
+    "patientInfoId": ${patientInfoID}
+  }
+}
